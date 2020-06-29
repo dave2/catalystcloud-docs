@@ -22,6 +22,7 @@ General best practices:
    best-practices/everyday-considerations
    best-practices/high-availability
    best-practices/security-bp
+   best-practices/ha-dr
 
 Service specific best practices:
 
